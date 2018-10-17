@@ -1,7 +1,9 @@
 # Tarea 2. EdsonOswaldoRamirezEsqueda
 
-Edson Oswaldo Ramírez Esqueda
+# Edson Oswaldo Ramírez Esqueda
 
-Tarea 2. Mecánica Analítica
+# Tarea 2. Mecánica Analítica
+
+
 
 
