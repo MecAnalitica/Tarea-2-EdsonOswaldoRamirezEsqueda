@@ -1,4 +1,4 @@
-# Tarea-2-EdsonOswaldoRamirezEsqueda
+# Tarea 2. EdsonOswaldoRamirezEsqueda
 
 Edson Oswaldo Ramírez Esqueda
 
